@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Pangolin&display=swap");
+body {
+  background-image: url(stairr.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+#H1 {
+  text-align: center;
+}
+#paragraph {
+  text-align: center;
+  font-size: 23px;
+  font-family: "Pangolin", fantasy;
+  color: lightcyan;
+}
+.spantag {
+  display: block;
+  margin: 5px 0;
+}
+a {
+  color: black;
+}
